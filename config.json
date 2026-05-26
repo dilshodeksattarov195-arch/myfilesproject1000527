@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdtringify",
+        "uuid": 3590978,
+        "checksum": "zwx5bk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
